@@ -6,6 +6,7 @@
 
     <groupId>com.github.xuqplus2</groupId>
     <artifactId>common</artifactId>
+    <version>0.0.1</version>
 
     <dependencies>
         <dependency>
